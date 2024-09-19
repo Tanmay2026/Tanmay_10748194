@@ -1,3 +1,3 @@
-registration-app
+my-registration-app
 <br>
 Test33
